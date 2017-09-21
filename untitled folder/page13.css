@@ -1,0 +1,121 @@
+.group1{ 
+
+    
+    font-size: 330px;
+    letter-spacing: 0px;
+     font-family: didot;
+    padding-left: 20px;
+    color: darkred;
+    
+}
+
+
+
+
+.group2{ 
+    font-size: 100px;
+    font-family: bodoni;
+    letter-spacing: 1px;
+    padding-top: 100px;
+    padding-right: 20px;
+    padding-left: 600px;
+    font-style: italic;
+    text-align: right;
+    
+
+}
+
+.group3{
+    
+    font-size: 70px;
+    font-family: helvetica;
+    padding-left: 800px;
+    padding-right: 20px;
+    padding-top: 100px;
+    
+    text-align: right;
+}
+
+.who{
+    font-size: 126px;
+    color: darkred;
+    
+}
+
+.better{
+    letter-spacing: 3px;
+    
+}
+
+.group4{
+    
+    font-size: 50px;
+    font-family: helvetica;
+    padding-left: 20px;
+    padding-top: 85px;
+    padding-right: 780px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-style: italic;
+
+}
+
+
+
+
+.group5{
+    
+    font-size: 80px;
+    font-family: helvetica;
+    padding-left: 0px;
+    padding-right: 650px;
+    font-style: normal;
+
+    
+}
+
+.group6{
+    
+    font-weight: 2px;
+    font-style: italic;
+    
+}
+
+.group7{
+    
+    font-size: 60px;
+    font-family: helvetica;
+    
+    
+    
+}
+.met{
+    
+    font-size: 120px;
+    letter-spacing: 5px;
+    
+}
+
+.group8{ 
+
+    font-size: 38px;
+    font-style: oblique;
+    
+    font-family: helvetica;
+    
+    
+}
+
+.group9{
+    padding-left: 40px;
+    padding-right: 800px;
+    padding-top: 0px;
+}
+
+.body{
+    
+    color: white;
+    background-image: url(http://iv1.lisimg.com/image/9701677/740full-jennifer-lawrence.jpg);
+        background-size: cover;
+    text-transform: uppercase;
+}
